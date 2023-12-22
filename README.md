@@ -1,4 +1,4 @@
-Hi 👋 My name is EDADIL
+Hi 👋 My name is Stepan
 =======================
 
 18 y.o. mid-level light programmer
