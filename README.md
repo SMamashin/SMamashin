@@ -6,7 +6,8 @@
 ### Contact
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=FFFFFF)](https://vk.com/evangelion1995)
 [![Telegram](https://img.shields.io/badge/-telegram-2199d4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/thetraextra) <br>
-![Static Badge](https://img.shields.io/badge/Site-red?label=https%3A%2F%2Fmamashin.site%2F)
+[![Site](https://img.shields.io/badge/My%20Site-red?style=flat-square)](https://mamashin.site/)
+
 
 
 
