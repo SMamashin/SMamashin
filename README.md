@@ -9,8 +9,7 @@
 [![Site](https://img.shields.io/badge/My%20Site-red?style=flat-square)](https://mamashin.site/)
 [![wakatime](https://wakatime.com/badge/user/018ceb8b-81bd-410f-921e-00d9ff955328.svg)](https://wakatime.com/@018ceb8b-81bd-410f-921e-00d9ff955328)
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mamashin\&layout=compact)](https://github.com/SMamashin/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMamashin&layout=donut-vertical)](https://github.com/SMamashin/github-readme-stats) 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mamashin\&layout=compact)](https://github.com/SMamashin/github-readme-stats)
 
 </div>
