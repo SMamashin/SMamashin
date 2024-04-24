@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Hi 👋 My name is Stepan
-### 18 y.o. mid-level light programmer
+### 19 y.o. mid-level light programmer
 
 ### Contact
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=FFFFFF)](https://vk.com/evangelion1995)
