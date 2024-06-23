@@ -36,7 +36,7 @@
   <img src="./assets/sass.png" style="height: 30px; width: auto;" alt="SASS" title="SASS"/>  
 </div>
 
-### I'm use it well
+### I'm used it well
 <div align="middle">
   <img src="./assets/vsc.png" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code"/>
   <img src="./assets/pycharm.png" width="40" height="40" alt="PyCharm" title="PyCharm"/>
