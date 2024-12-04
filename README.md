@@ -40,8 +40,8 @@
 <div align="middle">
   <img src="./assets/vsc.png" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code"/>
   <img src="./assets/pycharm.png" width="40" height="40" alt="PyCharm" title="PyCharm"/>
-  <img src="./assets/rustrover.png" width="40" height="40" alt="RustRover" title="RustRover"/>
   <img src="./assets/ws.png" width="40" height="40" alt="WebShtom" title="WebShtom"/>
+  <img src="./assets/rustrover.png" width="40" height="40" alt="RustRover" title="RustRover"/>
   <img src="./assets/vite.svg" width="40" height="40" alt="Vite" title="Vite"/>
   <img src="./assets/photoshop.svg" width="40" height="40" alt="Photoshop" title="Photoshop"/>
   <img src="./assets/winscp.png" width="40" height="40" alt="WinSCP" title="WinSCP"/>
