@@ -4,7 +4,7 @@
 ### 19 y.o. mid-level light programmer
 
 ### My social links
-[![Site](https://img.shields.io/badge/My_site-link?style=for-the-badge&logo=htmx&logoColor=white&color=green)](https://mamashin.site/) <br/>
+[![Site](https://img.shields.io/badge/My_site-link?style=for-the-badge&logo=htmx&logoColor=white&color=green)](https://smamashin.ru/) <br/>
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=FFFFFF)](https://vk.com/evangelion1995)
 [![TG](https://img.shields.io/badge/telegram-2199d4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/thetraextra)
 [![BH](https://img.shields.io/badge/blasthack-link?style=for-the-badge&color=%23313742)](https://www.blast.hk/members/386859/) <br/>
@@ -40,6 +40,7 @@
 <div align="middle">
   <img src="./assets/vsc.png" width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code"/>
   <img src="./assets/pycharm.png" width="40" height="40" alt="PyCharm" title="PyCharm"/>
+  <img src="./assets/rustrover.png" width="40" height="40" alt="RustRover" title="RustRover"/>
   <img src="./assets/ws.png" width="40" height="40" alt="WebShtom" title="WebShtom"/>
   <img src="./assets/vite.svg" width="40" height="40" alt="Vite" title="Vite"/>
   <img src="./assets/photoshop.svg" width="40" height="40" alt="Photoshop" title="Photoshop"/>
