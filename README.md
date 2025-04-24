@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Hi 👋 My name is Stepan
-### 19 y.o. mid-level light programmer
+### 20 y.o. mid-level light programmer
 
 ### My social links
 [![Site](https://img.shields.io/badge/My_site-link?style=for-the-badge&logo=htmx&logoColor=white&color=green)](https://smamashin.ru/) <br/>
